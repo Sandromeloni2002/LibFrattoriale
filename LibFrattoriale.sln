@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibFrattoriale", "LibFrattoriale\LibFrattoriale.csproj", "{6324CE57-053E-4E9A-A0EA-B215AE8D03EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFrattoriale", "TestFrattoriale\TestFrattoriale.csproj", "{1CB7FDAA-6E35-4D52-B92D-1865510A710E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6324CE57-053E-4E9A-A0EA-B215AE8D03EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6324CE57-053E-4E9A-A0EA-B215AE8D03EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6324CE57-053E-4E9A-A0EA-B215AE8D03EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CB7FDAA-6E35-4D52-B92D-1865510A710E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CB7FDAA-6E35-4D52-B92D-1865510A710E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CB7FDAA-6E35-4D52-B92D-1865510A710E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CB7FDAA-6E35-4D52-B92D-1865510A710E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
